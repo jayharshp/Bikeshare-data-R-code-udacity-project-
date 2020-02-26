@@ -1,15 +1,17 @@
 ### Date created
-Include the date you created this project and README file.
+02-25-2020
 
 ### Project Title
-Replace the Project Title
+Git Project to upload bikeshare data on github
 
 ### Description
-Describe what your project is about and what it does
+My project is about being able to upload my bikeshare data and bikeshare R code file on github
 
 ### Files used
-Include the files used
+Explore_bikeshare_data.ipynb
+chicago.csv
+new_york.csv
+washington.csv
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
-
+udacity course data science using R programming
