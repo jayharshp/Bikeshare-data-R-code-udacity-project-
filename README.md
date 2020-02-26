@@ -1,5 +1,5 @@
 ### Date created
-02-25-2020
+02-25-2020 Tuesday
 
 ### Project Title
 Git Project to upload bikeshare data on github
@@ -15,3 +15,4 @@ washington.csv
 
 ### Credits
 udacity course data science using R programming
+Thank you
